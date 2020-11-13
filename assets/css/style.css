@@ -1803,6 +1803,9 @@ textarea:focus {
     padding: 1rem 5rem;
   }
 }
+.hide {
+  display:none;
+}
 
 /* small devices, tablets */
 @media only screen and (max-width: 768px) {
